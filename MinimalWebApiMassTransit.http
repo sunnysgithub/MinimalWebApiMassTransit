@@ -1,0 +1,6 @@
+@MinimalWebApiMassTransit_HostAddress = http://localhost:5015
+
+Post {{MinimalWebApiMassTransit_HostAddress}}/subscribe
+Accept: application/json
+
+###
